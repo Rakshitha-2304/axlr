@@ -222,7 +222,7 @@ const Navbar = () => {
         {/* Branding */}
         <Link to="/dashboard" className="nav-logo">
           <Car className="logo-icon" />
-          <span>VSM <span className="logo-accent">AutoCare</span></span>
+          <span>AXLR <span className="logo-accent">AutoCare</span></span>
         </Link>
 
         {/* Desktop Links */}
