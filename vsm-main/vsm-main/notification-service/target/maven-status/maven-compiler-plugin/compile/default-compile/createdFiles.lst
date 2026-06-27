@@ -1,0 +1,5 @@
+com\vehicle\service\notification\entity\Notification.class
+com\vehicle\service\notification\NotificationServiceApplication.class
+com\vehicle\service\notification\service\KafkaConsumerService.class
+com\vehicle\service\notification\repository\NotificationRepository.class
+com\vehicle\service\notification\controller\NotificationController.class

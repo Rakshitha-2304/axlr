@@ -1,0 +1,4 @@
+com\vehicle\service\gateway\util\JwtUtil.class
+com\vehicle\service\gateway\ApiGatewayApplication.class
+com\vehicle\service\gateway\filter\AuthenticationFilter$Config.class
+com\vehicle\service\gateway\filter\AuthenticationFilter.class

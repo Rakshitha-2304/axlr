@@ -1,0 +1,4 @@
+com\vehicle\service\vehicle\exception\ErrorResponse.class
+com\vehicle\service\vehicle\VehicleServiceApplication.class
+com\vehicle\service\vehicle\exception\GlobalExceptionHandler.class
+com\vehicle\service\vehicle\exception\ResourceNotFoundException.class

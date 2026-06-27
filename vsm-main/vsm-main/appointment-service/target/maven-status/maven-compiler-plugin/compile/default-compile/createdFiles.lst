@@ -1,0 +1,14 @@
+com\vehicle\service\appointment\repository\ServicePackageRepository.class
+com\vehicle\service\appointment\repository\AppointmentRepository.class
+com\vehicle\service\appointment\controller\AppointmentController.class
+com\vehicle\service\appointment\controller\ServicePackageController.class
+com\vehicle\service\appointment\entity\ServicePackage.class
+com\vehicle\service\appointment\AppointmentServiceApplication.class
+com\vehicle\service\appointment\entity\Appointment.class
+com\vehicle\service\appointment\exception\ErrorResponse.class
+com\vehicle\service\appointment\service\KafkaProducerService.class
+com\vehicle\service\appointment\exception\ResourceNotFoundException.class
+com\vehicle\service\appointment\service\AppointmentService.class
+com\vehicle\service\appointment\entity\Status.class
+com\vehicle\service\appointment\exception\GlobalExceptionHandler.class
+com\vehicle\service\appointment\service\ServicePackageService.class

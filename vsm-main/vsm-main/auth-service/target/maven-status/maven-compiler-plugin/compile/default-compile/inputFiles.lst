@@ -1,0 +1,16 @@
+C:\Users\vaish\Downloads\VSM-AutoCare\vsm-main\vsm-main\auth-service\src\main\java\com\vehicle\service\auth\AuthServiceApplication.java
+C:\Users\vaish\Downloads\VSM-AutoCare\vsm-main\vsm-main\auth-service\src\main\java\com\vehicle\service\auth\controller\AuthController.java
+C:\Users\vaish\Downloads\VSM-AutoCare\vsm-main\vsm-main\auth-service\src\main\java\com\vehicle\service\auth\DatabaseSeeder.java
+C:\Users\vaish\Downloads\VSM-AutoCare\vsm-main\vsm-main\auth-service\src\main\java\com\vehicle\service\auth\dto\AuthRequest.java
+C:\Users\vaish\Downloads\VSM-AutoCare\vsm-main\vsm-main\auth-service\src\main\java\com\vehicle\service\auth\dto\AuthResponse.java
+C:\Users\vaish\Downloads\VSM-AutoCare\vsm-main\vsm-main\auth-service\src\main\java\com\vehicle\service\auth\dto\RegisterRequest.java
+C:\Users\vaish\Downloads\VSM-AutoCare\vsm-main\vsm-main\auth-service\src\main\java\com\vehicle\service\auth\entity\Role.java
+C:\Users\vaish\Downloads\VSM-AutoCare\vsm-main\vsm-main\auth-service\src\main\java\com\vehicle\service\auth\entity\User.java
+C:\Users\vaish\Downloads\VSM-AutoCare\vsm-main\vsm-main\auth-service\src\main\java\com\vehicle\service\auth\exception\ErrorResponse.java
+C:\Users\vaish\Downloads\VSM-AutoCare\vsm-main\vsm-main\auth-service\src\main\java\com\vehicle\service\auth\exception\GlobalExceptionHandler.java
+C:\Users\vaish\Downloads\VSM-AutoCare\vsm-main\vsm-main\auth-service\src\main\java\com\vehicle\service\auth\repository\UserRepository.java
+C:\Users\vaish\Downloads\VSM-AutoCare\vsm-main\vsm-main\auth-service\src\main\java\com\vehicle\service\auth\security\CustomUserDetails.java
+C:\Users\vaish\Downloads\VSM-AutoCare\vsm-main\vsm-main\auth-service\src\main\java\com\vehicle\service\auth\security\CustomUserDetailsService.java
+C:\Users\vaish\Downloads\VSM-AutoCare\vsm-main\vsm-main\auth-service\src\main\java\com\vehicle\service\auth\security\JwtUtil.java
+C:\Users\vaish\Downloads\VSM-AutoCare\vsm-main\vsm-main\auth-service\src\main\java\com\vehicle\service\auth\security\SecurityConfig.java
+C:\Users\vaish\Downloads\VSM-AutoCare\vsm-main\vsm-main\auth-service\src\main\java\com\vehicle\service\auth\service\AuthService.java

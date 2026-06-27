@@ -1,0 +1,16 @@
+com\vehicle\service\auth\exception\GlobalExceptionHandler.class
+com\vehicle\service\auth\dto\AuthRequest.class
+com\vehicle\service\auth\repository\UserRepository.class
+com\vehicle\service\auth\service\AuthService.class
+com\vehicle\service\auth\security\JwtUtil.class
+com\vehicle\service\auth\dto\RegisterRequest.class
+com\vehicle\service\auth\AuthServiceApplication.class
+com\vehicle\service\auth\entity\User.class
+com\vehicle\service\auth\security\CustomUserDetailsService.class
+com\vehicle\service\auth\security\SecurityConfig.class
+com\vehicle\service\auth\controller\AuthController.class
+com\vehicle\service\auth\exception\ErrorResponse.class
+com\vehicle\service\auth\dto\AuthResponse.class
+com\vehicle\service\auth\entity\Role.class
+com\vehicle\service\auth\security\CustomUserDetails.class
+com\vehicle\service\auth\DatabaseSeeder.class
